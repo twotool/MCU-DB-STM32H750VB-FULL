@@ -1,0 +1,7 @@
+STLINK v2.1 block gives out by means of a 
+STM32F103 mcu present on the board two signals, 
+VCP_RX and
+VCP_TX that are respectively routed on the 
+PB7 and PA9 pins of STM32F746NG.
+Being PB7/PA9 pins also the alternate 
+function of UART1 (PB7 is UART1_RX and PA9 is UART1_TX), 
