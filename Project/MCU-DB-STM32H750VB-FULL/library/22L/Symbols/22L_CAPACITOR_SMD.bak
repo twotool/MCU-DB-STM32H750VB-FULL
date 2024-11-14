@@ -179,7 +179,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/4020/0805B104K500BD.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -197,7 +197,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey part number" ""
+		(property "Digikey part number" "3372-0805B104K500BDTR-ND"
 			(at 0 0 0)
 			(effects
 				(font
